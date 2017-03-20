@@ -4,6 +4,7 @@ import java.util.Map;
 
 public class allPath {
 	
+	@SuppressWarnings("rawtypes")
 	public void getEnvPath(){
 		//System.getenv()方法是获取指定的环境变量的值
 		for(Map.Entry entry:System.getenv().entrySet()){ //1.8版本有问题
