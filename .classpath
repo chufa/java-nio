@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="example"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mina"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.5.0_14"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/log"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/logger"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
